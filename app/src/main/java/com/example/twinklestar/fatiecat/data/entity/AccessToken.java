@@ -1,4 +1,4 @@
-package com.example.twinklestar.fatiecat.data.data.entity;
+package com.example.twinklestar.fatiecat.data.entity;
 
 /**
  * Created by linh on 2018/04/20.

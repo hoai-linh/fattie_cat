@@ -2,7 +2,7 @@ package com.example.twinklestar.fatiecat.di;
 
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.twinklestar.fatiecat.ResourceString;
+import com.example.twinklestar.fatiecat.application.helper.ResourceString;
 
 import dagger.Module;
 import dagger.Provides;

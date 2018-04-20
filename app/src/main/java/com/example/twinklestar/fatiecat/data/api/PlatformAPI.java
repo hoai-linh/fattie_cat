@@ -1,7 +1,7 @@
-package com.example.twinklestar.fatiecat.data.data.api;
+package com.example.twinklestar.fatiecat.data.api;
 
 
-import com.example.twinklestar.fatiecat.data.data.entity.AccessToken;
+import com.example.twinklestar.fatiecat.data.entity.AccessToken;
 
 import retrofit2.Call;
 import retrofit2.http.Field;
